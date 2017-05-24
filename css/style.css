@@ -1,0 +1,28 @@
+p.intro {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color:blue;
+  font-style:oblique;
+}
+
+.bdy {
+  background-color: #0d0;
+  text-align: center;
+}
+
+.cen {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
